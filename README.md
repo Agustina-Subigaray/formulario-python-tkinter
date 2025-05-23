@@ -30,3 +30,7 @@ Este proyecto es una pequeña aplicación gráfica desarrollada en Python utiliz
 
 ```bash
 python formulario.py
+
+## 📸 Captura
+
+![Formulario](Captura de pantalla (53).png)
